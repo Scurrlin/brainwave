@@ -76,3 +76,5 @@ export function Editor({ roomId, currentUserType }: { roomId: string, currentUse
     </LexicalComposer>
   );
 }
+
+export default Editor
