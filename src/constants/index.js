@@ -81,7 +81,7 @@ import {
   
   export const brainwaveServices = [
     "Photo generating",
-    "Photo enhance",
+    "Photo enhancement",
     "Seamless Integration",
   ];
   
@@ -130,13 +130,12 @@ import {
   ];
   
   export const collabText =
-    "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+    "With cutting-edge automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
   
   export const collabContent = [
     {
       id: "0",
       title: "Seamless Integration",
-      text: collabText,
     },
     {
       id: "1",
@@ -236,9 +235,9 @@ import {
       description: "Custom AI chatbot, advanced analytics, dedicated account",
       price: null,
       features: [
-        "An AI chatbot that can understand your queries",
-        "Personalized recommendations based on your preferences",
-        "Ability to explore the app and its features without any cost",
+        "Customizable AI chatbot with advanced integration capabilities",
+        "Advanced analytics and reporting with real-time insights",
+        "Dedicated account manager and 24/7 premium support",
       ],
     },
   ];
@@ -247,7 +246,7 @@ import {
     {
       id: "0",
       title: "Ask anything",
-      text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+      text: "Lets users quickly find answers to their questions without having to consult multiple sources.",
       backgroundUrl: "./src/assets/benefits/card-1.svg",
       iconUrl: benefitIcon1,
       imageUrl: benefitImage2,
@@ -255,7 +254,7 @@ import {
     {
       id: "1",
       title: "Improve everyday",
-      text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+      text: "The app uses natural language processing to understand user queries and provide accurate, relevant responses.",
       backgroundUrl: "./src/assets/benefits/card-2.svg",
       iconUrl: benefitIcon2,
       imageUrl: benefitImage2,
@@ -264,15 +263,15 @@ import {
     {
       id: "2",
       title: "Connect everywhere",
-      text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+      text: "Connect with Brainwave from anywhere and on any device, making AI more accessible than ever.",
       backgroundUrl: "./src/assets/benefits/card-3.svg",
       iconUrl: benefitIcon3,
       imageUrl: benefitImage2,
     },
     {
       id: "3",
-      title: "Fast responding",
-      text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+      title: "Seamless Integration",
+      text: "Easily integrate with existing tools and workflows, enhancing productivity without disrupting your routine.",
       backgroundUrl: "./src/assets/benefits/card-4.svg",
       iconUrl: benefitIcon4,
       imageUrl: benefitImage2,
@@ -280,16 +279,16 @@ import {
     },
     {
       id: "4",
-      title: "Ask anything",
-      text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+      title: "Enhanced Collaboration",
+      text: "Facilitates better teamwork by allowing multiple users to collaborate in real-time, regardless of location.",
       backgroundUrl: "./src/assets/benefits/card-5.svg",
       iconUrl: benefitIcon5,
       imageUrl: benefitImage2,
     },
     {
       id: "5",
-      title: "Improve everyday",
-      text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+      title: "Personalized Insights",
+      text: "Receive tailored recommendations and insights based on your usage patterns, helping you make informed decisions.",
       backgroundUrl: "./src/assets/benefits/card-6.svg",
       iconUrl: benefitIcon6,
       imageUrl: benefitImage2,

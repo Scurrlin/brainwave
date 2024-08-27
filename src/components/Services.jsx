@@ -16,7 +16,7 @@ const Services = () => {
     <Section id="how-to-use">
       <div className="container">
         <Heading
-          title="Generative AI made for creators."
+          title="Generative AI made for creators"
           text="Brainwave unlocks the potential of AI-powered applications"
         />
 
@@ -26,14 +26,14 @@ const Services = () => {
               <img
                 className="w-full h-full object-cover md:object-right"
                 width={800}
-                alt="Smartest AI"
+                alt="200 IQ Plays"
                 height={730}
                 src={service1}
               />
             </div>
 
             <div className="relative z-1 max-w-[17rem] ml-auto">
-              <h4 className="h4 mb-4">Smartest AI</h4>
+              <h4 className="h4 mb-4">200 IQ Plays</h4>
               <p className="body-2 mb-[3rem] text-n-3">
                 Brainwave unlocks the potential of AI-powered applications
               </p>
@@ -69,7 +69,7 @@ const Services = () => {
                 <h4 className="h4 mb-4">Photo editing</h4>
                 <p className="body-2 mb-[3rem] text-n-3">
                   Automatically enhance your photos using our AI app&apos;s
-                  photo editing feature. Try it now!
+                  photo editing feature. Try it today!
                 </p>
               </div>
 
@@ -80,8 +80,7 @@ const Services = () => {
               <div className="py-12 px-4 xl:px-8">
                 <h4 className="h4 mb-4">Video generation</h4>
                 <p className="body-2 mb-[2rem] text-n-3">
-                  The world’s most powerful AI photo and video art generation
-                  engine. What will you create?
+                  Brainwave boasts the most powerful AI photo and video art generation engine in the world. What will you create?
                 </p>
 
                 <ul className="flex items-center justify-between">
