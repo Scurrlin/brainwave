@@ -3,6 +3,8 @@ import {
     benefitIcon2,
     benefitIcon3,
     benefitIcon4,
+    benefitIcon5,
+    benefitIcon6,
     benefitImage2,
     chromecast,
     disc02,
@@ -281,7 +283,7 @@ import {
       title: "Ask anything",
       text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
       backgroundUrl: "./src/assets/benefits/card-5.svg",
-      iconUrl: benefitIcon1,
+      iconUrl: benefitIcon5,
       imageUrl: benefitImage2,
     },
     {
@@ -289,7 +291,7 @@ import {
       title: "Improve everyday",
       text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
       backgroundUrl: "./src/assets/benefits/card-6.svg",
-      iconUrl: benefitIcon2,
+      iconUrl: benefitIcon6,
       imageUrl: benefitImage2,
     },
   ];
