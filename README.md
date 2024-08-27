@@ -4,7 +4,7 @@ A modern website featuring sleek parallax effects, innovative bento box layouts,
 ![banner_image](https://i.imgur.com/TB3a0MQ.png)
 
 ## Take a look!
-[Brainwave](https://seancurrlin.com/)
+[Brainwave](https://brainwave-pqr2.onrender.com/)
 
 ## Technologies Used
 * ReactJS
