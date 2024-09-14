@@ -27,9 +27,7 @@ const Collaboration = () => {
             ))}
           </ul>
 
-          <Button onClick={() => window.location.href = '#hero'}>
-            Try it now
-          </Button>
+          <Button>Try it now</Button>
         </div>
             
         <div className="lg:ml-auto xl:w-[38rem] mt-4">
