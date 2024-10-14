@@ -80,8 +80,8 @@ import {
   export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
   
   export const brainwaveServices = [
-    "Photo generating",
-    "Photo enhancement",
+    "Content Generation",
+    "Photo Enhancement",
     "Seamless Integration",
   ];
   
