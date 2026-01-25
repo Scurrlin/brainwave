@@ -4,6 +4,6 @@ A modern website featuring sleek parallax effects, innovative bento box layouts,
 ![banner_image](https://i.imgur.com/TB3a0MQ.png)
 
 ## Technologies Used
-* ReactJS
+* React.js
 * Tailwind CSS
 * Vite
